@@ -18,3 +18,4 @@ C:\Users\Nathaniel\source\repos\SSDorHDD\bin\Debug\net8.0-windows\System.Managem
 C:\Users\Nathaniel\source\repos\SSDorHDD\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
 C:\Users\Nathaniel\source\repos\SSDorHDD\obj\Debug\net8.0-windows\SSDorHDD.csproj.AssemblyReference.cache
 C:\Users\Nathaniel\source\repos\SSDorHDD\obj\Debug\net8.0-windows\SSDorHDD.csproj.Up2Date
+C:\Users\Nathaniel\source\repos\SSDorHDD\obj\Debug\net8.0-windows\SSDorHDD.sourcelink.json
