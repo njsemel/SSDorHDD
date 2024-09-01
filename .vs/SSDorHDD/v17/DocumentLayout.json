@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E95E766E-9F36-4F1B-9ADE-873EC252C5DC}|SSDorHDD.csproj|c:\\users\\nathaniel\\source\\repos\\ssdorhdd\\ssdorhdd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E95E766E-9F36-4F1B-9ADE-873EC252C5DC}|SSDorHDD.csproj|solutionrelative:ssdorhdd.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E95E766E-9F36-4F1B-9ADE-873EC252C5DC}|SSDorHDD.csproj|c:\\users\\nathaniel\\source\\repos\\ssdorhdd\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E95E766E-9F36-4F1B-9ADE-873EC252C5DC}|SSDorHDD.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -44,7 +48,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "SSDorHDD",
+              "DocumentMoniker": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\SSDorHDD.csproj",
+              "RelativeDocumentMoniker": "SSDorHDD.csproj",
+              "ToolTip": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\SSDorHDD.csproj",
+              "RelativeToolTip": "SSDorHDD.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-01T18:46:45.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
@@ -55,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "MainForm.Designer.cs",
@@ -67,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
