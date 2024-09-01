@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UO2T7e9s5Zw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nathaniel\\source\\repos\\SSDorHDD\\SSDorHDD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nathaniel\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nathaniel\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
