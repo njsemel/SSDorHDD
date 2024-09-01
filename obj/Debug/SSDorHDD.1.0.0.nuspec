@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SSDorHDD</id>
+    <version>1.0.0</version>
+    <authors>SSDorHDD</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="99bc9ed68d8c5a1cbb6b339b01c46f4eacde82e8" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0">
+        <dependency id="System.Management" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Nathaniel\source\repos\SSDorHDD\bin\Debug\net8.0-windows\SSDorHDD.runtimeconfig.json" target="lib\net8.0-windows7.0\SSDorHDD.runtimeconfig.json" />
+    <file src="C:\Users\Nathaniel\source\repos\SSDorHDD\bin\Debug\net8.0-windows\SSDorHDD.dll" target="lib\net8.0-windows7.0\SSDorHDD.dll" />
+  </files>
+</package>

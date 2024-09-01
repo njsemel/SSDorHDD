@@ -72,9 +72,6 @@ namespace SSDorHDD
             this.MouseUp += new MouseEventHandler(Form_MouseUp);
         }
 
-
-
-
         private string GetDiskInfo()
         {
             string resultString = "";
@@ -111,7 +108,6 @@ namespace SSDorHDD
 
             return resultString;
         }
-
 
         private string ParsePowerShellOutput(string output)
         {
@@ -157,7 +153,6 @@ namespace SSDorHDD
 
             return resultString;
         }
-
 
         private string ExtractValue(string line)
         {
