@@ -1,7 +1,7 @@
 SSDorHDD
 
 Purpose:
-This program shows information about your computer's storage drives and tells you if you have an SSD or HDD.
+This lightweight program shows information about your computer's storage drives and tells you if you have an SSD or HDD.
 
 How It Works:
 
