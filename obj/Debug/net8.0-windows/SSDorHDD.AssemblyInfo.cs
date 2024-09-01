@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SSDorHDD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99bc9ed68d8c5a1cbb6b339b01c46f4eacde82e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ab0b58dc8169e479fb4f0f9350bc19b5b30fa30")]
 [assembly: System.Reflection.AssemblyProductAttribute("SSDorHDD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SSDorHDD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
